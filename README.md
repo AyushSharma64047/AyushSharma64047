@@ -39,9 +39,9 @@ You can click the Preview link to take a look at your changes.
 
 ➣ 🛡 <b>Sƚιʅʅ MîʂƚΑƙҽ Hαρρҽɳʂ</b> 🤷‍♂️
 
-[![Generic badge](https://img.shields.io/badge/JoinTG-Main-Channel.ping-@z_harbour-RED.svg)](https://telegram.dog/z_harbour)
+[![Generic badge](https://img.shields.io/badge/JoinTGChannel.ping-@z_harbour-RED.svg)](https://telegram.dog/z_harbour)
 
-[![Generic badge](https://img.shields.io/badge/JoinTG-Group.ping-@blackest_harbour-BLUE.svg)](https://telegram.dog/blackest_harbour)
+[![Generic badge](https://img.shields.io/badge/JoinTGGroup.ping-@blackest_harbour-BLUE.svg)](https://telegram.dog/blackest_harbour)
 
 ## <b> <i> <u> <big>✌️ Support Us By Joining OuR TG Channel On In Telegram!... </big> <b> <u> <i>💎
 
