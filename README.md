@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ayush
-- 👀 I’m interested in programming 🐍
+- 👋 Yo, I’m Ayush
+- 👀 I’m interested in programmin' 🐍
 - 🌱 I’m currently learning mistakes...
-- 💞️ I’m looking to collaborate on nothing...
+- 💞️ I’m lookin' to collaborate on nothin'...
 - 📫 How to reach me ? Anonymous Is The Identity...
 
 <!---
@@ -9,7 +9,7 @@ Ayush64047/Ayush64047 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2> <b> Yo Buddy What'z up👋 <b>  </h2>
+<h2> <b> Yo...Yo...Yo... Programmin' Bitch Huh 👨‍💻🤓!! <b>  </h2>
 
 <img src="https://github.com/PredatorHackerzZ/PredatorHackerzZ/blob/main/Profile/HelpLessBoi.gif" width="750px">
 
