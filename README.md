@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @Ayush64047
+- 👋 Hi, I’m Ayush
 - 👀 I’m interested in programming 🐍
 - 🌱 I’m currently learning mistakes...
 - 💞️ I’m looking to collaborate on nothing...
-- 📫 How to reach me ? Anonymous Is The Identify...
+- 📫 How to reach me ? Anonymous Is The Identity...
 
 <!---
 Ayush64047/Ayush64047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2> <i> <b>Yo Buddy What'z up👋 <b> <i> </h2>
+<h2> <b> Yo Buddy What'z up👋 <b>  </h2>
 
-<img src="https://github.com/PredatorHackerzZ/PredatorHackerzZ/blob/main/Profile/HelpLessBoi.gif" width="700px">
+<img src="https://github.com/PredatorHackerzZ/PredatorHackerzZ/blob/main/Profile/HelpLessBoi.gif" width="750px">
 
 # Welcome To Myh proFile!!!
 
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Generic badge](https://img.shields.io/badge/JoinTG.ping-@I_AM_Groot_S1_Andor_S1_HD-RED.svg)](https://telegram.dog/I_AM_Groot_S1_Andor_S1_HD)
 
-## <b> <i> <u> <big>✌️ Support Us By Joining OuR Copyrighted Channel In Telegram!... </big> <b> <u> <i>💎
+## <b> <i> <u> <big>✌️ Support Us By Joining OuR TG Channel In Telegram!... </big> <b> <u> <i>💎
 
 ## <i> <b> One Of The Fastest Harbouring Channel To Upload {Mdisk Links} in Telegram 🔥!... <i> <b>
 
