@@ -9,7 +9,7 @@ Ayush64047/Ayush64047 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2> <b> Yo...Yo...Yo...Programmin' Bitch Huh ! 👨‍💻 <b>  </h2>
+<h2> <b> Yo...Yo...Yo... Programmers 🫀 ! 👨‍💻 <b>  </h2>
 
 <img src="https://github.com/PredatorHackerzZ/PredatorHackerzZ/blob/main/Profile/HelpLessBoi.gif" width="300px" height="255">
 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushSharma64047&label=Profile%20Views&color=0e75b6&style=flat" alt="AyushSharma64047" /> </p>
 
 <p align="middle">
-<img src="https://te.legra.ph/file/5b5f873158e34c63775d5.jpg" width="1650" height="255"><br>
+<img src="https://te.legra.ph/file/5b5f873158e34c63775d5.jpg" width="1000" height="575"><br>
 <img src="https://badgen.net/badge/Name/AyushSharma64047/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a>
 <a href="https://github.com/AyushSharma64047"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=Green"></a>
