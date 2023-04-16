@@ -9,7 +9,7 @@ Ayush64047/Ayush64047 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2> <b> Yo...Yo...Yo... Programmers 🫀 ! 👨‍💻 <b>  </h2>
+<h2> <b> ... Focusing 🫀 ! 👨‍💻 <b>  </h2>
 
 <img src="https://github.com/PredatorHackerzZ/PredatorHackerzZ/blob/main/Profile/HelpLessBoi.gif" width="350px" height="200">
 
